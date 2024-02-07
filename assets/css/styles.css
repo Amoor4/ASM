@@ -959,7 +959,7 @@ the website, in dark theme
   }
   
  .container1 {
-   max-width: 280px;
+   max-width: 300px;
    align-items: center;
    margin-left: var(--mb-1);
    margin-right: var(--mb-1);
@@ -1036,6 +1036,14 @@ the website, in dark theme
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
+  
+  .about__img1{
+   width: 360px;
+   height: 260px;
+   border-radius: .5rem;
+   justify-self: center;
+  }
+
   .nav__toggle,
   .nav__close{
     display: none;
