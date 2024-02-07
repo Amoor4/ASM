@@ -1005,12 +1005,7 @@ the website, in dark theme
     grid-template-columns: repeat(2, 1fr);
   }
   
-  .container1 {
-    max-width: 450px;
-    align-items: center;
-    margin-left: var(--mb-1-5);
-    margin-right: var(--mb-1-5);
-  }
+  
   .product__description{
     padding: 0 4rem;
   }
