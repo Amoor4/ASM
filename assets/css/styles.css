@@ -177,7 +177,7 @@ the website, in dark theme
 }
 
 .container1 {
-  max-width: 450px;
+  max-width: 320px;
   align-items: center;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
@@ -1004,7 +1004,13 @@ the website, in dark theme
   .steps__container{
     grid-template-columns: repeat(2, 1fr);
   }
-
+  
+  .container1 {
+    max-width: 450px;
+    align-items: center;
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
   .product__description{
     padding: 0 4rem;
   }
