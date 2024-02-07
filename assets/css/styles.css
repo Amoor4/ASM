@@ -196,6 +196,7 @@ the website, in dark theme
 
 .grid{
   display: grid;
+  width:100vw;
 }
 
 .main{
