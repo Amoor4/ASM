@@ -196,7 +196,8 @@ the website, in dark theme
 
 .grid{
   display: grid;
-  width:80vw;
+  grid-template-columns: 80px 200px auto 40px;
+
 }
 
 .main{
