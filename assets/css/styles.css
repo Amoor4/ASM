@@ -951,14 +951,20 @@ the website, in dark theme
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
+ .about__img1{
+   width: 280px;
+   height: 180px;
+   border-radius: .5rem;
+   justify-self: center;
+  }
   
-.container1 {
+ .container1 {
    max-width: 280px;
    align-items: center;
    margin-left: var(--mb-1);
    margin-right: var(--mb-1);
   }
-.container2{
+ .container2{
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
