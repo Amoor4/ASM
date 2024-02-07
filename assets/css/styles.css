@@ -971,10 +971,11 @@ the website, in dark theme
     font-size: var(--h2-font-size);
   
   }
+
   .about__description{
-    width: 280px;
-    margin-bottom: var(--mb-2);
+    margin-right: var(--mb-1);
   }
+
 
   .steps__bg{
     padding: 2rem 1rem;
@@ -983,7 +984,7 @@ the website, in dark theme
     padding: 1.5rem;
   }
 
-  .about__container,
+
   .product__container{
     grid-template-columns: .5fr;
     justify-content: center;
