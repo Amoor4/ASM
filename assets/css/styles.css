@@ -196,7 +196,7 @@ the website, in dark theme
 
 .grid{
   display: grid;
-  width:100vw;
+  width:80vw;
 }
 
 .main{
@@ -456,7 +456,7 @@ the website, in dark theme
 }
 
 .about__img{
-  width: 280px;
+  maxwidth: 600px;
   border-radius: .5rem;
   justify-self: center;
 }
