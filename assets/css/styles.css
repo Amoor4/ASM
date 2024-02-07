@@ -177,7 +177,7 @@ the website, in dark theme
 }
 
 .container1 {
-  max-width: 320px;
+  max-width: 700px;
   align-items: center;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
@@ -952,11 +952,13 @@ the website, in dark theme
     margin-right: var(--mb-1);
   }
   
-  .container1{
-    margin-left: var(--mb-1);
-    margin-right: var(--mb-1);
+.container1 {
+   max-width: 320px;
+   align-items: center;
+   margin-left: var(--mb-1);
+   margin-right: var(--mb-1);
   }
-  .container2{
+.container2{
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
