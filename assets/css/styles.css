@@ -979,6 +979,7 @@ the website, in dark theme
     padding: 1.5rem;
   }
 
+  .about__container,
   .product__container{
     grid-template-columns: .6fr;
     justify-content: center;
