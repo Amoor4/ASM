@@ -177,7 +177,7 @@ the website, in dark theme
 }
 
 .container1 {
-  max-width: 400px;
+  max-width: 320px;
   align-items: center;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
@@ -982,9 +982,6 @@ the website, in dark theme
   .product__container{
     grid-template-columns: .6fr;
     justify-content: center;
-  }
-  .about__img1{
-    width: 280px;
   }
 }
 
