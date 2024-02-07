@@ -1030,6 +1030,12 @@ the website, in dark theme
     column-gap: 3rem;
   }
   
+  .container1 {
+    max-width: 380px;
+    align-items: center;
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
   .nav__toggle,
   .nav__close{
     display: none;
@@ -1099,6 +1105,16 @@ the website, in dark theme
     width: 600px;
   }
 
+  .container1 {
+    max-width: 480px;
+    align-items: center;
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+
+  .about__img1{
+    width: 420px;
+  }
 
   .about__img{
     width: 380px;
@@ -1106,7 +1122,7 @@ the website, in dark theme
 
   .steps__container{
     grid-template-columns: repeat(3, 1fr);
-  }
+ }
   .steps__bg{
     padding: 3.5rem 2.5rem;
   }
@@ -1187,7 +1203,17 @@ the website, in dark theme
   .home__social-link{
     font-size: 1.15rem;
   }
+  
+  .container1 {
+    max-width: 550px;
+    align-items: center;
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
 
+  .about__img1{
+    width: 480px;
+  }
   .about__container{
     column-gap: 7rem;
   }
